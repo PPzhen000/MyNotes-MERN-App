@@ -1,7 +1,7 @@
 {
   "name": "mynotesmernapp",
   "version": "1.0.0",
-  "description": "A Notepack for Clinical Lab Scientist",
+  "description": "A Notepad for Clinical Lab Scientist",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
